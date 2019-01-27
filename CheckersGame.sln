@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D01C02E7-A4C1-4039-A82F-27DAB4A1236F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.GraphicUI", "CheckersGame.UI.Graphic\CheckersGame.GraphicUI.csproj", "{4CBFD79C-B275-4529-8F17-0133FC64406E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.Engine", "CheckersGame.Engine\CheckersGame.Engine.csproj", "{77601CD3-229D-4DDA-99E0-DF5585899020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.CLI", "CheckersGame.UI.Cli\CheckersGame.CLI.csproj", "{E8B5FBB4-970C-4751-91C7-21906469C113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBFD79C-B275-4529-8F17-0133FC64406E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBFD79C-B275-4529-8F17-0133FC64406E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBFD79C-B275-4529-8F17-0133FC64406E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBFD79C-B275-4529-8F17-0133FC64406E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77601CD3-229D-4DDA-99E0-DF5585899020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77601CD3-229D-4DDA-99E0-DF5585899020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77601CD3-229D-4DDA-99E0-DF5585899020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77601CD3-229D-4DDA-99E0-DF5585899020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B5FBB4-970C-4751-91C7-21906469C113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B5FBB4-970C-4751-91C7-21906469C113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B5FBB4-970C-4751-91C7-21906469C113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B5FBB4-970C-4751-91C7-21906469C113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7CCED1C-00C7-40BD-8C7B-615A142D4365}
+	EndGlobalSection
+EndGlobal
