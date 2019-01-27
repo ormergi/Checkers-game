@@ -339,3 +339,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database 
 healthchecksdb
+
+#StyleCop Extention
+*.StyleCop
+*.Cache
