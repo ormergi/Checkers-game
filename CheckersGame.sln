@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D01C02E7-A4C1-4039-A82F-27DAB4A1236F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.GraphicUI", "CheckersGame.UI.Graphic\CheckersGame.GraphicUI.csproj", "{4CBFD79C-B275-4529-8F17-0133FC64406E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.GraphicUI", "CheckersGame.GraphicUI.\CheckersGame.GraphicUI.csproj", "{4CBFD79C-B275-4529-8F17-0133FC64406E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.Engine", "CheckersGame.Engine\CheckersGame.Engine.csproj", "{77601CD3-229D-4DDA-99E0-DF5585899020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.CLI", "CheckersGame.UI.Cli\CheckersGame.CLI.csproj", "{E8B5FBB4-970C-4751-91C7-21906469C113}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.CLI", "CheckersGame.CLI\CheckersGame.CLI.csproj", "{E8B5FBB4-970C-4751-91C7-21906469C113}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
